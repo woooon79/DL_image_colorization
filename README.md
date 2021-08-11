@@ -1,1 +1,1 @@
-# colorization
+# Hint-based image colorization
