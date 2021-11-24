@@ -31,7 +31,7 @@ dataframe 형식으로 반환해준다.
 ![image](https://user-images.githubusercontent.com/75998991/143179340-36a6ab61-30e0-4c5c-9085-67136bac9131.png)
 
 # Result
-![image](https://user-images.githubusercontent.com/75998991/143179415-cc7aeb60-2c51-4e10-b973-6e905b24c50b.png)
+![image](https://user-images.githubusercontent.com/75998991/143179415-cc7aeb60-2c51-4e10-b973-6e905b24c50b.png)  
 기존의 Basic Unet, Attention Unet, Nested Unet으로 학습을 진행해본 뒤 Nested Unet에 attention 
 block을 더한 Nested-Attention Unet 이라는 새로운 모델을 구성해보았다. 성능을 PSNR과 SSIM으로 
 측정한 결과, Nested-Attention Unet>Nested Unet>Attention Unet>Basic Unet 순으로 
